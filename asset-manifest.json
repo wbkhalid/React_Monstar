@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Monstar/static/css/main.230ca57a.css",
+    "main.js": "/React-Monstar/static/js/main.05f8116e.js",
+    "index.html": "/React-Monstar/index.html",
+    "main.230ca57a.css.map": "/React-Monstar/static/css/main.230ca57a.css.map",
+    "main.05f8116e.js.map": "/React-Monstar/static/js/main.05f8116e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.230ca57a.css",
+    "static/js/main.05f8116e.js"
+  ]
+}
